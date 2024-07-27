@@ -86,7 +86,7 @@ Operating systems come in various types, each designed to meet different needs a
 ### Examples:
 - Android, iOS, Windows Phone.
 
-## 8. Desktop Operating System
+## 8. Desktop Operating System  
 
 ### Overview:
 - Desktop OS is designed for personal computers, providing a user-friendly interface and a wide range of functionalities for general use.
